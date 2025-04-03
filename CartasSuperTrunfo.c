@@ -23,7 +23,7 @@ int main(){
   printf ("densidadepopulacional: %.2f hab/km² \n", densidadepopulacional);
   printf ("pibpercapita: %f reais \n", pibpercapita);
 
-  int  Carta = 2;
+  int  carta2 = 2;
   char estado2 [20] = "Alagoas";
   char codigo2 [10] = "B02";
   char cidade2 [20] = "Batalha";
@@ -35,16 +35,16 @@ int main(){
   float pibpercapta2 = pib2/populacao2;
 
  
-  printf ("Carta: %d \n", Carta);
-  printf ("estado2: %s \n", estado2);
+  printf ("carta: %d \n", carta2);
+  printf ("estado: %s \n", estado2);
   printf ("codigo : %s \n", codigo2);
   printf ("cidade: %s \n", cidade2);
   printf ("populacao: %d habitantes \n", populacao2);
   printf ("area: %.2f km² \n", area2);
   printf ("pib: %.2f mlhoes de reais \n", pib2);
   printf ("pontos turisticos: %d \n", pontoturistico);
-  printf ("densidadepopulacional2: %.2f hab/km² \n", densidadepopulacional2);
-  printf ("pibpercapta2: %.2f reais \n", pibpercapta2);
+  printf ("densidadepopulacional: %.2f hab/km² \n", densidadepopulacional2);
+  printf ("pibpercapta: %.2f reais \n", pibpercapta2);
 
 
  
